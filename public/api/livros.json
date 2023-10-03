@@ -1,0 +1,21 @@
+[
+    {
+        "id": "123-456-789-99",
+        "titulo": "CSS Grid Layout",
+        "autor": "Mauricio Samy",
+        "preco": "28,00"
+    },
+    {
+        "id": "123-456-689-99",
+        "titulo": "node Essencial",
+        "autor": "Kyle Mew",
+        "preco": "20,00"
+    },
+    {
+        "id": "123-456-220-99",
+        "titulo": "Harry Potter",
+        "autor": "J.K Rowling",
+        "preco": "19,90"
+    }
+]
+
